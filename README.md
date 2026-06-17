@@ -15,4 +15,4 @@ The foot modeling is completed and the star linkage assembly has been finished. 
 17/6/2026 
 Completed the remote control of a single robotic leg via Orange Pi to execute designated tasks, including servo rotation and electromagnetic attraction & release. I also built a web-based control interface accessible on both mobile phones and computers to manipulate the leg’s movements remotely.
 借助香橙派搭建远程控制系统，驱动单条机械腿完成舵机转动、电磁铁吸附与松开等功能。另外开发了适配手机、电脑的网页控制界面，可直接通过网页远程调控机械腿的各类动作。
-![控制网页截图](./assets/web1.jpg)
+![控制网页截图](./assets/web1.png)
