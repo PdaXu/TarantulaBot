@@ -8,7 +8,7 @@
 
 <!-- 图1：整机照片（机器人贴在钢面上工作）。放这里当 hero 图，第一眼抓人。 -->
 <!-- IMAGE 1: Hero shot — the robot adhered to the steel wall. This is the first thing visitors see. -->
-![TarantulaBot](./images/hero.jpg)
+![TarantulaBot](images/hero.jpg.png)
 
 [English](#english) · [中文](#中文)
 
@@ -27,7 +27,7 @@ The platform integrates four subsystems on a two-tier control architecture: **th
 
 <!-- 图2：系统架构框图（Orange Pi / ESP32 两层）。放在 Overview 下面，帮读者建立整体认知。 -->
 <!-- IMAGE 2: System architecture diagram (two-tier Orange Pi / ESP32). Anchors the reader's mental model. -->
-![System Architecture](docs/images/architecture.png)
+![System Architecture](images/architecture.png)
 
 ### Key Features
 
@@ -43,11 +43,11 @@ The platform integrates four subsystems on a two-tier control architecture: **th
 
 <!-- 图3：斜面爬行照片（标注角度 30–45°）。展示核心能力。 -->
 <!-- IMAGE 3: Robot climbing the inclined steel plate (annotate 30–45°). Shows the core capability. -->
-![Climbing demo](docs/images/climbing.jpg)
+![Climbing demo](images/climbing.jpg.png)
 
 <!-- 图4：软夹爪抓取特写（钥匙/螺丝）。展示操作能力。 -->
 <!-- IMAGE 4: Soft gripper holding a key / screw. Shows manipulation. -->
-![Grasping demo](docs/images/grasping.jpg)
+![Grasping demo](images/grasping.jpg.png)
 
 > 📹 A demo video is available here: `docs/demo.mp4` *(or link to your video)*
 
@@ -59,7 +59,7 @@ The platform integrates four subsystems on a two-tier control architecture: **th
 
 <!-- 图5：IMU 姿态恢复曲线（roll/pitch 随时间，标 <1s）。有实测数据的图最有说服力。 -->
 <!-- IMAGE 5: Measured PD attitude-recovery curve. Real data is the most convincing figure in the repo. -->
-![Attitude recovery](docs/images/recovery.png)
+![Attitude recovery](images/recovery.png)
 
 **Visual servoing.** ArUco marker tracking uses the marker's horizontal pixel offset from image center as a heading error and drives it to zero — no camera intrinsics needed, because only alignment matters, not distance.
 
