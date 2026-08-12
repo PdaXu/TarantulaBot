@@ -197,7 +197,7 @@ pip install -r requirements.txt
 # 用 Arduino IDE 将 firmware/ 烧录到 ESP32（需 SCServo 库）
 
 # 运行网页控制界面
-python3 app.py
+python3 app6.py
 # 浏览器打开 http://<orangepi-ip>:5000
 ```
 > 具体命令按你的实际代码补全。
