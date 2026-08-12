@@ -8,7 +8,7 @@
 
 <!-- 图1：整机照片（机器人贴在钢面上工作）。放这里当 hero 图，第一眼抓人。 -->
 <!-- IMAGE 1: Hero shot — the robot adhered to the steel wall. This is the first thing visitors see. -->
-![TarantulaBot](/images/hero.jpg)
+![TarantulaBot](./images/hero.jpg)
 
 [English](#english) · [中文](#中文)
 
